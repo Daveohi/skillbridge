@@ -1,0 +1,334 @@
+.desktop {
+    background-color: #f0f5ff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .overlap-wrapper {
+    background-color: #f0f5ff;
+    height: 100vh;
+    overflow: hidden;
+    /* width: 1440px; */
+}
+
+.desktop .overlap {
+    /* height: 1548px; */
+    left: -287px;
+    position: relative;
+    top: -388px;
+    width: 1727px;
+}
+
+.desktop .overlap-group {
+    height: 1548px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1727px;
+}
+
+.desktop .Skillbridge-LOGO {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 9.04px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    /* color: #ffffff; */
+}
+
+.desktop .ellipse {
+    height: 585px;
+    /* margin-bottom: -21.07px; */
+    /* margin-right: -19.26px; */
+    position: fixed; top:-349.5px; left:-350px;
+    width: 700px;
+    border-radius: 349.5px;
+    box-shadow: 1.81px 3.62px 15.64px 1.81px #0000002e;
+    background: #fdce04;
+    /* border: 10px solid #214aa0; */
+    /* border-radius: 700px; */
+}
+
+.desktop .image {
+    height: 100px;
+    left: 360px;
+    /* object-fit: cover; */
+    position: absolute;
+    top: 420px;
+    width: 200px;
+    /* background-color: #ffffff; */
+}
+
+.desktop .oval {
+    border: 21px solid;
+    border-color: #214aa04c;
+    border-radius: 211.5px/208px;
+    height: 416px;
+    left: 138px;
+    opacity: 0.2;
+    position: absolute;
+    top: 932px;
+    width: 423px;
+}
+
+.desktop .div {
+    height: 659px;
+    left: 367px;
+    position: absolute;
+    top: 451px;
+    /* width: 1360px; */
+}
+
+.desktop .oval-2 {
+    border: 21px solid;
+    border-color: #214aa04c;
+    border-radius: 94.5px/93px;
+    height: 186px;
+    left: 450px;
+    opacity: 0.2;
+    position: absolute;
+    top: 72px;
+    width: 189px;
+}
+
+.desktop .welcome-to-skillbridge {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 35px;
+    left: 0;
+    position: absolute;
+    top: 200px;
+}
+
+.desktop .text-block {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    width: 610px;
+}
+
+.desktop .p {
+    align-self: stretch;
+    color: transparent;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -1.12px;
+    line-height: 60px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.desktop .text-wrapper {
+    color: #333333;
+}
+
+.desktop .span {
+    color: #d9b002;
+}
+
+.desktop .text-wrapper-2 {
+    color: #fdce04;
+}
+
+.desktop .text-wrapper-3 {
+    color: #333333;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: -0.42px;
+    line-height: 29px;
+    position: relative;
+    width: 610px;
+}
+
+.desktop .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 22px;
+    position: relative;
+}
+
+.desktop .ellipse-2 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 40px;
+    position: relative;
+    width: 40px;
+}
+
+.desktop .facebook {
+    height: 24px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+}
+
+.desktop .twitter {
+    height: 24px;
+    left: 70px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+}
+
+.desktop .instagram {
+    height: 24px;
+    left: 132px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+}
+
+.desktop .linkedin {
+    height: 24px;
+    left: 194px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+}
+
+.desktop .PEOPLE {
+    height: 659px;
+    left: 455px;
+    position: absolute;
+    top: 0;
+    width: 905px;
+}
+
+.desktop .overlap-group-2 {
+    height: 659px;
+    position: relative;
+}
+
+.desktop .element-removebg-preview {
+    height: 82px;
+    left: 105px;
+    object-fit: contain;
+    position: absolute;
+    top: 500px;
+    width: 70px;
+}
+
+.desktop .img {
+    height: 140px;
+    left: 600px;
+    object-fit: contain;
+    position: absolute;
+    top: 230px;
+    width: 155px;
+}
+
+.desktop .element-removebg-preview-2 {
+    height: 82px;
+    left: 350px;
+    position: absolute;
+    top: 83px;
+    width: 145px;
+}
+
+.desktop .element-removebg-preview-3 {
+    height: 75px;
+    left: 630px;
+    object-fit: contain;
+    position: absolute;
+    top: 450px;
+    width: 97px;
+}
+
+.desktop .medium-shot-young {
+    height: 559px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 805px;
+}
+
+.desktop .LOGIN-REGISTER {
+    align-items: flex-start;
+    display: flex;
+    gap: 24px;
+    left: 1341px;
+    position: absolute;
+    top: 449px;
+    width: 280px;
+}
+
+.desktop .LOGIN {
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #214aa0;
+    border-radius: 6px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    padding: 14px 34px;
+    position: relative;
+}
+
+.desktop .text-wrapper-4 {
+    color: #214aa0;
+    font-family: var(--body-title-body-medium-font-family);
+    font-size: var(--body-title-body-medium-font-size);
+    font-style: var(--body-title-body-medium-font-style);
+    font-weight: var(--body-title-body-medium-font-weight);
+    letter-spacing: var(--body-title-body-medium-letter-spacing);
+    line-height: var(--body-title-body-medium-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+    background-color: #ffffff;
+    border: none;
+}
+
+.desktop .REGISTER {
+    align-items: center;
+    background-color: #214aa0;
+    border-radius: 6px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    padding: 14px 34px;
+    position: relative;
+}
+
+.desktop .text-wrapper-5 {
+    color: #ffffff;
+    font-family: var(--body-title-body-medium-font-family);
+    font-size: var(--body-title-body-medium-font-size);
+    font-style: var(--body-title-body-medium-font-style);
+    font-weight: var(--body-title-body-medium-font-weight);
+    letter-spacing: var(--body-title-body-medium-letter-spacing);
+    line-height: var(--body-title-body-medium-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+    background: #214aa0;
+    border: none;
+}
+
+.desktop .rectangle {
+    border: 8px solid;
+    border-color: #2145a0;
+    height: 51px;
+    left: 1434px;
+    opacity: 0.2;
+    position: absolute;
+    top: 995px;
+    transform: rotate(-23deg);
+    width: 51px;
+}
